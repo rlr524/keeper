@@ -1,6 +1,6 @@
 {
   "name": "keeper",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.9.7",
@@ -43,5 +43,13 @@
     "eslint-plugin-react": "^7.19.0"
   },
   "author": "Rob Ranf",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rlr524/keeper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rlr524/keeper/issues"
+  },
+  "homepage": "https://github.com/rlr524/keeper#readme"
 }
